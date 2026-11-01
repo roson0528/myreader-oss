@@ -1,0 +1,22 @@
+{
+  "name": "云阅读 myreader 开源版",
+  "slug": "myreader-oss",
+  "category": "web-backend",
+  "description": "自托管电子书书库与在线阅读平台：FastAPI + SQLite，前端原生 HTML/JS 零构建。支持 EPUB/MOBI/AZW3/PDF/TXT/Markdown/DOCX 多格式在线阅读、听书（TTS）、书单分享、会员额度、技术报告投放区自动上架与回收。本包为脱敏开源版：真实域名/IP/口令/品牌均已替换，凭据全部改走环境变量。",
+  "version": "1.0.0",
+  "tags": [
+    "电子书",
+    "阅读器",
+    "fastapi",
+    "sqlite",
+    "自托管",
+    "开源"
+  ],
+  "filename": "myreader-1.0.0-oss.tar.gz",
+  "format": "tar.gz",
+  "size": 1162902,
+  "sha256": "b6cfca299f2efa32a5088542e45edafff45fc243ee78ef795ff5dddcf125e8d3",
+  "created_at": "2026-11-01 02:34:17",
+  "download_url": "/api/v1/images/myreader-oss/download",
+  "git_url": "/img-git/myreader-oss.git"
+}
